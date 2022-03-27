@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkifObaidi
-- 👀 I’m interested in js,py,c#,flask,react,vuejs
+- 👀 I’m interested in js,py,c#,django,flask,react,vuejs
 - 🌱 I’m currently learning react,falsk
 - 💞️ I’m looking to collaborate on react Devoloper
 - 📫 How to reach me email : sayedakefoabide@gmail.com
