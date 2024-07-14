@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkifObaidi https://akifobaidi.github.io/
+- 👋 Hi, I’m @AkifObaidi
 - 👀 I’m interested in js,py,c#,django,flask,react,vuejs and mostly on AI
 - 🌱 I’m currently learning Web Develoment,GameDev,AI,Cyber Security,Problem Solving
 - 💞️ I’m looking to collaborate on Software engineer
