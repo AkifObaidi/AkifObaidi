@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @AkifObaidi
-- 👀 I’m interested in Golang,js,py,VueJs,c#,django,flask,react and mostly on AI
-- 🌱 I’m currently learning Web Develoment,GameDev,AI,Cyber Security,Problem Solving
-- 💞️ I’m looking to collaborate on Software engineer
-- 📫 How to reach me email : sayedakefoabide@gmail.com
+# 👋 Hi, I'm Akif Obaidi
 
-<!---
-AkifObaidi/AkifObaidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Passionate about building innovative solutions and exploring cutting-edge technologies.**
+
+---
+
+### 👀 Interests
+- Programming Languages: **Python, JavaScript, Golang, C#, C++**
+- Frameworks & Libraries: **Vue.js, React, Django, Flask**
+- Domains: **AI & Machine Learning, Web Development, Game Development, Cyber Security, Problem Solving**
+
+---
+
+### 🌱 Currently Learning
+- Advanced Web Development
+- AI & Machine Learning applications
+- Game Development techniques
+- Cyber Security fundamentals
+- Data Structures & Algorithms for problem-solving
+
+---
+
+### 💞️ Let's Collaborate
+I’m eager to collaborate on **software engineering projects** that challenge me and contribute to impactful tech solutions.
+
+---
+
+### 📫 Get in Touch
+Feel free to reach out via email:  
+**sayedakefoabide@gmail.com**
+
+---
+
+### ⚡ Fun fact
+I love merging creativity with technology, constantly learning and experimenting with new ideas!
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
