@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akif Obaidi
 
-🚀 **Passionate about building innovative solutions and exploring cutting-edge technologies.**
+🚀 **Passionate about building innovative solutions and exploring cutting-edge technologies. You can check my portfolio at AkifObaidi.com.**
 
 ---
 
@@ -21,7 +21,7 @@
 ---
 
 ### 💞️ Let's Collaborate
-I’m eager to collaborate on **software engineering projects** that challenge me and contribute to impactful tech solutions.
+I’m eager to collaborate on **software engineering projects** that challenge me and contribute to impactful tech solutions.Feel free to explore my work at AkifObaidi.com.
 
 ---
 
